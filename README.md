@@ -1,4 +1,4 @@
-![Header Image](https://github.com/sammrguez/profile-assets/blob/main/profile-header.jpg)
+![Header Image](https://github.com/sammrguez/profile-assets/blob/main/profileheader.png)
 full stack web developer
 ------------------------
 
