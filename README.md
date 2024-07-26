@@ -1,6 +1,4 @@
-[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samantha Rodriguez
-==========================================================================================================================================
-](https://capsule-render.vercel.app/api?type=wave&height=282&color=618053&text=samantha%20Rodiguez&reversal=true&textBg=false&fontColor=E19CE5&fontSize=60&fontAlign=50&fontAlignY=36&stroke=000000)
+![Header Image](https://github.com/sammrguez/profile-assets/blob/main/profile-header.jpg)
 full stack web developer
 ------------------------
 
