@@ -28,7 +28,8 @@ I'm a freshly minted fullstack web developer, straight out of the Tripleten boot
 
 <a href="http://www.github.com/sammrguez"><img src="https://github-readme-stats.vercel.app/api?username=sammrguez&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&show_icons=true" alt="sammrguez's GitHub stats" /></a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammrguez&layout=compact)
 
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sammrguez}&theme={dracula})
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammrguez&theme=dracula)
+
 
