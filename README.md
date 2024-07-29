@@ -30,3 +30,5 @@ I'm a freshly minted fullstack web developer, straight out of the Tripleten boot
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sammrguez}&theme={dracula})
+
