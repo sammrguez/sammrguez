@@ -1,7 +1,8 @@
 ![Header Image](https://github.com/sammrguez/sammrguez/blob/main/profileheader.png)
-full stack web developer
+
 ------------------------
 
+About me: 
 I'm a freshly minted fullstack web developer, straight out of the Tripleten bootcamp. Currently, I'm freelancing on various projects because someone has to keep the coffee fund going! Here, you'll find some of the projects I've worked on (and am still working on), as well as a bit about my interests and skills.
 
 * 🌍  I'm based in México
@@ -26,3 +27,6 @@ I'm a freshly minted fullstack web developer, straight out of the Tripleten boot
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sammrguez"><img src="https://github-readme-stats.vercel.app/api?username=sammrguez&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&show_icons=true" alt="sammrguez's GitHub stats" /></a>
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammrguez)
