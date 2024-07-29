@@ -22,13 +22,13 @@ I'm a freshly minted fullstack web developer, straight out of the Tripleten boot
 
 <p align="left"> <a href="https://www.github.com/sammrguez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_samm_my" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sammrguez7/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sammrguez"><img src="https://github-readme-stats.vercel.app/api?username=sammrguez&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&show_icons=true" alt="sammrguez's GitHub stats" /></a>
 
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={sammrguez}&theme={dracula}&exclude={exclude})
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammrguez&theme=dracula)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammrguez&theme=dracula)
 
